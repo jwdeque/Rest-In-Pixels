@@ -4,7 +4,7 @@ A watch face for AMOLED Garmin watches.
 
 ![Rest In Pixels Screenshot](img/rest-in-pixels-1.png)
 
-Available from the Garmin Store here - https://apps.garmin.com/apps/c7ab9e64-cbec-4939-b029-044e9ef468f9
+Available from the Garmin Store here - [TBD]
 
 ### What's where
 
